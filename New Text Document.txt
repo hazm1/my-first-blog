@@ -1,0 +1,5 @@
+c:\python34\python -m venv myvenv
+myvenv\scripts\activate
+python -m pip install django~=1.9.0
+			OR
+python -m pip install django!=1.9.0
